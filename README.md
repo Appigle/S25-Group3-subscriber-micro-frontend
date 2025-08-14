@@ -2,6 +2,8 @@
 
 autonomous component to add names to a subscriber database
 
+Url: https://s8r.xiaopotato.top/
+
 ![s8r](./screenshots/s8r-subscribe.png)
 ![s8r](./screenshots/s8r-mysql.png)
 
